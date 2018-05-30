@@ -27,7 +27,7 @@ github_username: mmistakes
 
 # Build settings
 markdown: kramdown
-remote_theme: gobiernoenlinea/dev-tema
+remote_theme: y7kim/agency-jekyll-theme
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
